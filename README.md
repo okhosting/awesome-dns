@@ -8,9 +8,14 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 * [dnsExit](https://www.dnsexit.com/) - Free Dynamic DNS, Managed DNS Services. Rock Solid Enterprise DNS Services while 100% free        and maintaining 100% Up Time since 1998
 
-* []() - 
-* []() - 
-* []() - 
-* []() - 
-* []() - 
-* []() - 
+* [D.U.I.A.](https://www.duiadns.net/) - Dynamic Updates for Internet Addressing. DUIADNS is the only dynamic dns provider that allows you to make dynamic IPv6 DNS updates for home network devices directly from your router.
+
+* [FreeDNS](https://freedns.afraid.org/) - FreeDNS - Free DNS - Dynamic DNS - Static DNS subdomain and domain hosting
+
+* [DuckDNS](https://duckdns.org/) - Duck DNS is a free service which will point a DNS (sub domains of duckdns.org) to an IP of your choice
+* [Zilore](https://zilore.com/en/dns) - A fast, reliable, and globally accessible DNS hosting service
+maintained by a team of experts, with amazing capabilities
+
+* [ClouDNS](https://www.cloudns.net) - ClouDNS makes your DNS faster and secure with Global Anycast DNS Network 
+
+* [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a free dynamic DNS service. nsupdate.info is also the name of the software used to implement it. If you like, you can use it to host the service on your own server.
