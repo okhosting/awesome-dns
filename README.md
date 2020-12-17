@@ -19,3 +19,7 @@ maintained by a team of experts, with amazing capabilities
 * [ClouDNS](https://www.cloudns.net) - ClouDNS makes your DNS faster and secure with Global Anycast DNS Network 
 
 * [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a free dynamic DNS service. nsupdate.info is also the name of the software used to implement it. If you like, you can use it to host the service on your own server.
+
+
+## Contributions welcome
+If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
