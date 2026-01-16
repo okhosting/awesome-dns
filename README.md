@@ -20,6 +20,7 @@ maintained by a team of experts, with amazing capabilities
 
 * [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a free dynamic DNS service. nsupdate.info is also the name of the software used to implement it. If you like, you can use it to host the service on your own server.
 
+* [NetworkWhois DNS Propagation](https://networkwhois.com/dns-propagation) - Check DNS propagation across multiple public resolvers and locations.
 
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
