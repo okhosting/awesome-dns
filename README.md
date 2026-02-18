@@ -22,5 +22,7 @@ maintained by a team of experts, with amazing capabilities
 
 * [NetworkWhois DNS Propagation](https://networkwhois.com/dns-propagation) - Check DNS propagation across multiple public resolvers and locations.
 
+* [DNS Propagation Checker](https://dns-propagation-checker.autocompany.workers.dev) - Open-source DNS propagation checker with 10+ global DNS servers, supports A/AAAA/CNAME/MX/NS/TXT records. ([GitHub](https://github.com/brancogao/dns-propagation-checker))
+
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
