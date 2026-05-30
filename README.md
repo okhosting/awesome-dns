@@ -26,5 +26,7 @@ maintained by a team of experts, with amazing capabilities
 
 * [IntoDNS.ai](https://intodns.ai) - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, blacklists and provides actionable fixes. Free, no signup required.
 
+* [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking CLI with DoH, DoT, DNSSEC validation and full timing breakdown.
+
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
