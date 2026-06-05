@@ -18,6 +18,8 @@ maintained by a team of experts, with amazing capabilities
 
 * [ClouDNS](https://www.cloudns.net) - ClouDNS makes your DNS faster and secure with Global Anycast DNS Network 
 
+* [SecondDNS](https://seconddns.com/) - Secondary (slave) DNS with automatic AXFR/IXFR zone sync, NOTIFY, and failover. One-command integrations for cPanel/WHM, Plesk, DirectAdmin, and CyberPanel. Free 3-month trial.
+
 * [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a free dynamic DNS service. nsupdate.info is also the name of the software used to implement it. If you like, you can use it to host the service on your own server.
 
 * [NetworkWhois DNS Propagation](https://networkwhois.com/dns-propagation) - Check DNS propagation across multiple public resolvers and locations.
