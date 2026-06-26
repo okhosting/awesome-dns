@@ -30,5 +30,7 @@ maintained by a team of experts, with amazing capabilities
 
 * [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking CLI with DoH, DoT, DNSSEC validation and full timing breakdown.
 
+* [DomScan](https://domscan.net) - Domain intelligence with free DNS, WHOIS/RDAP, SSL and DNS propagation lookup tools, plus an API and MCP server for domain availability, valuation and brand protection.
+
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
