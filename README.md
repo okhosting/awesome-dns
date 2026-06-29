@@ -32,5 +32,7 @@ maintained by a team of experts, with amazing capabilities
 
 * [DomScan](https://domscan.net) - Domain intelligence with free DNS, WHOIS/RDAP, SSL and DNS propagation lookup tools, plus an API and MCP server for domain availability, valuation and brand protection.
 
+* [DNS Beacon](https://dnsbeacon.com/) - Commercial dynamic DNS service that speaks the standard DynDNS2 protocol, so it works with any router, firewall or NAS. Free tier with no periodic re-confirmation, bring-your-own-domain, automatic Let's Encrypt SSL, and IPv4 + IPv6 (AAAA) updates. Hosted in Germany, GDPR-compliant.
+
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
