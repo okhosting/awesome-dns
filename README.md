@@ -30,6 +30,8 @@ maintained by a team of experts, with amazing capabilities
 
 * [IntoDNS.ai](https://intodns.ai) - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, blacklists and provides actionable fixes. Free, no signup required.
 
+* [Relaymetry](https://relaymetry.com) - Free SPF, DKIM, DMARC and MTA-STS checker. Expands SPF includes to show the real DNS-lookup count and reports the specific fixes. No signup required.
+
 * [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking CLI with DoH, DoT, DNSSEC validation and full timing breakdown.
 
 * [DomScan](https://domscan.net) - Domain intelligence with free DNS, WHOIS/RDAP, SSL and DNS propagation lookup tools, plus an API and MCP server for domain availability, valuation and brand protection.
