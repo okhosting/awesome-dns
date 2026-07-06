@@ -32,6 +32,8 @@ maintained by a team of experts, with amazing capabilities
 
 * [Relaymetry](https://relaymetry.com) - Free SPF, DKIM, DMARC and MTA-STS checker. Expands SPF includes to show the real DNS-lookup count and reports the specific fixes. No signup required.
 
+* [DNSai](https://dnsai.com/dns-tools/) - AI-era DNS & email-security toolkit: DNS/WHOIS lookup, SPF analyzer, DKIM selector discovery, DMARC and blacklist checks, plus a free API and remote MCP server for AI assistants. Free, no signup required.
+
 * [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking CLI with DoH, DoT, DNSSEC validation and full timing breakdown.
 
 * [DomScan](https://domscan.net) - Domain intelligence with free DNS, WHOIS/RDAP, SSL and DNS propagation lookup tools, plus an API and MCP server for domain availability, valuation and brand protection.
