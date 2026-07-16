@@ -42,6 +42,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [proxy-dns-leak-check](https://github.com/SotaProxy/proxy-dns-leak-check) - Open-source CLI tool to detect DNS leaks when routing traffic through a proxy or VPN. Compares direct vs. proxied DNS resolution for a given host and flags mismatches. Companion to a [DNS troubleshooting guide](https://sotaproxy.com/en/blog/dns-resolution-problems?utm_source=github&utm_medium=readme&utm_campaign=awesome_dns_list).
 
+[Valla DNS](https://valladns.com) - Free, no-signup DNS, WHOIS, propagation (global resolvers with a map), SSL/TLS and email-health (SPF/DKIM/DMARC/MX/blacklist) checker suite.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
