@@ -46,6 +46,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [admintoolkit.io](https://admintoolkit.io/) - Free, no-signup browser toolkit for DNS, DNSSEC, MX, SPF, DKIM, DMARC, BIMI, MTA-STS, TLS-RPT, DANE/TLSA, CAA and TLS certificate diagnostics.
 
+[Nutilz DNS Lookup](https://nutilz.com/dns-lookup) - Free browser-based DNS record lookup tool (A/AAAA/MX/CNAME/NS/TXT/SOA) using DNS-over-HTTPS. No signup required.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
