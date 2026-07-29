@@ -48,6 +48,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Nutilz DNS Lookup](https://nutilz.com/dns-lookup) - Free browser-based DNS record lookup tool (A/AAAA/MX/CNAME/NS/TXT/SOA) using DNS-over-HTTPS. No signup required.
 
+[Punycode Converter](https://alltoolsverse.com/tools/punycode-converter/) - Free browser tool for converting internationalized domain names between Unicode and ASCII Punycode in both directions. No signup required.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
