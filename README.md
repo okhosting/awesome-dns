@@ -48,6 +48,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Nutilz DNS Lookup](https://nutilz.com/dns-lookup) - Free browser-based DNS record lookup tool (A/AAAA/MX/CNAME/NS/TXT/SOA) using DNS-over-HTTPS. No signup required.
 
+[Nutilz Domain Expiry Checker](https://nutilz.com/domain-expiry) - Free domain expiry checker. Instantly see when a domain expires, who registered it, registrar and nameservers using WHOIS/RDAP data. Bulk check multiple domains at once. No signup required.
+
 [Punycode Converter](https://alltoolsverse.com/tools/punycode-converter/) - Free browser tool for converting internationalized domain names between Unicode and ASCII Punycode in both directions. No signup required.
 
 ## Contributions welcome
