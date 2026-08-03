@@ -48,6 +48,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Nutilz DNS Lookup](https://nutilz.com/dns-lookup) - Free browser-based DNS record lookup tool (A/AAAA/MX/CNAME/NS/TXT/SOA) using DNS-over-HTTPS. No signup required.
 
+[Nutilz Domain Expiry Checker](https://nutilz.com/domain-expiry) - Free domain expiry checker. Instantly see when a domain expires, who registered it, registrar and nameservers using WHOIS/RDAP data. Bulk check multiple domains at once. No signup required.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
