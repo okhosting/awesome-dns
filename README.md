@@ -50,6 +50,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Nutilz Domain Expiry Checker](https://nutilz.com/domain-expiry) - Free domain expiry checker. Instantly see when a domain expires, who registered it, registrar and nameservers using WHOIS/RDAP data. Bulk check multiple domains at once. No signup required.
 
+[Nutilz DMARC Record Generator](https://nutilz.com/dmarc-record-generator) - Free DMARC record builder and validator. Generate TXT records with policy (none/quarantine/reject), subdomain policy, rollout percentage, aggregate/forensic report addresses, and SPF/DKIM alignment mode. Also parses and validates existing records. No signup required.
+
 [Punycode Converter](https://alltoolsverse.com/tools/punycode-converter/) - Free browser tool for converting internationalized domain names between Unicode and ASCII Punycode in both directions. No signup required.
 
 ## Contributions welcome
