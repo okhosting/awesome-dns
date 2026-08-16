@@ -27,6 +27,7 @@ A curated list of open source tools, and free services, related to Domain Name S
 [DNS Propagation Checker](https://github.com/rockswang/dns-propagation-checker) - Open-source DNS propagation checker with 10+ global DNS servers, supports A/AAAA/CNAME/MX/NS/TXT records. (GitHub)
 
 [digga](https://github.com/spatie/digga) - Free and open-source domain and infrastructure research toolkit for DNS, RDAP, WHOIS, subdomain discovery, email authentication, and TLS certificate inspection. No signup required. (GitHub)
+[Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Catalog of still-free domain/subdomain programs plus a live RDAP hunter for unused cheap TLD names. Honest about forever-free vs year-1 cheap. No expired-.com scrapes.
 
 [IntoDNS.ai](https://intodns.ai/) - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, blacklists and provides actionable fixes. Free, no signup required.
 
