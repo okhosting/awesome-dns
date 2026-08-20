@@ -55,6 +55,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Punycode Converter](https://alltoolsverse.com/tools/punycode-converter/) - Free browser tool for converting internationalized domain names between Unicode and ASCII Punycode in both directions. No signup required.
 
+[Domain Hunter](https://github.com/WhiteBite/Domain-Hunter) - Free, open-source, 100% client-side bulk domain availability checker: queries registry RDAP directly from the browser (no servers, no API keys, no tracking) across 148 TLD zones, with DNS-over-HTTPS corroboration for low-trust ccTLDs, IDN/punycode handling, live registrar prices and CSV/Markdown/TSV export. MIT. ([live demo](https://whitebite.github.io/Domain-Hunter/))
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
