@@ -26,7 +26,7 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [DNS Propagation Checker](https://github.com/rockswang/dns-propagation-checker) - Open-source DNS propagation checker with 10+ global DNS servers, supports A/AAAA/CNAME/MX/NS/TXT records. (GitHub)
 
-[digga](https://github.com/spatie/digga) - Free and open-source domain and infrastructure research toolkit for DNS, RDAP, WHOIS, subdomain discovery, email authentication, and TLS certificate inspection. No signup required. (GitHub)
+[digga](https://github.com/maaaathis/digga) - Free and open-source domain and infrastructure research toolkit for DNS, RDAP, WHOIS, subdomain discovery, email authentication, and TLS certificate inspection. No signup required. (GitHub)
 [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Catalog of still-free domain/subdomain programs plus a live RDAP hunter for unused cheap TLD names. Honest about forever-free vs year-1 cheap. No expired-.com scrapes.
 
 [IntoDNS.ai](https://intodns.ai/) - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, blacklists and provides actionable fixes. Free, no signup required.
@@ -35,7 +35,7 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [DNSai](https://dnsai.app/) - AI-era DNS & email-security toolkit: DNS/WHOIS lookup, SPF analyzer, DKIM selector discovery, DMARC and blacklist checks, plus a free API and remote MCP server for AI assistants. Free, no signup required.
 
-[net-benchmark](https://github.com/eaydin/net-benchmark) - DNS/HTTP/SSL benchmarking CLI with DoH, DoT, DNSSEC validation and full timing breakdown.
+[net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking CLI with DoH, DoT, DNSSEC validation and full timing breakdown.
 
 [DomScan](https://domscan.io/) - Domain intelligence with free DNS, WHOIS/RDAP, SSL and DNS propagation lookup tools, plus an API and MCP server for domain availability, valuation and brand protection.
 
