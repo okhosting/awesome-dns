@@ -53,6 +53,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Nutilz DMARC Record Generator](https://nutilz.com/dmarc-record-generator) - Free DMARC record builder and validator. Generate TXT records with policy (none/quarantine/reject), subdomain policy, rollout percentage, aggregate/forensic report addresses, and SPF/DKIM alignment mode. Also parses and validates existing records. No signup required.
 
+[Nutilz SPF Record Generator](https://nutilz.com/spf-record-generator) - Free SPF record builder and validator. Counts DNS lookups against the RFC 7208 10-lookup limit, configures mechanisms (include, ip4, ip6, a, mx), adds email provider presets (Google Workspace, Microsoft 365, SendGrid, Mailchimp), and sets enforcement qualifiers (~all, -all, ?all). No signup required.
+
 [Punycode Converter](https://alltoolsverse.com/tools/punycode-converter/) - Free browser tool for converting internationalized domain names between Unicode and ASCII Punycode in both directions. No signup required.
 
 [Rju-IP](https://www.rjuip.com) - Dynamic DNS service with a free tier supporting IPv4/IPv6, OTP verification, and quick integration for IoT devices (ESP32/ESP8266) and CCTV.
