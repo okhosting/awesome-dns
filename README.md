@@ -61,7 +61,7 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Domain Hunter](https://github.com/WhiteBite/Domain-Hunter) - Free, open-source, 100% client-side bulk domain availability checker: queries registry RDAP directly from the browser (no servers, no API keys, no tracking) across 148 TLD zones, with DNS-over-HTTPS corroboration for low-trust ccTLDs, IDN/punycode handling, live registrar prices and CSV/Markdown/TSV export. MIT. ([live demo](https://whitebite.github.io/Domain-Hunter/))
 
-[uChecker](https://uchecker.net/en/tools) - Free SPF, DKIM, DMARC, MX and email-domain health checkers. No signup required.
+[uChecker](https://uchecker.net/tools) - Free SPF, DKIM, DMARC, MX and email-domain health checkers. No signup required.
 
 ## Contributions welcome
 
