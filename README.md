@@ -61,6 +61,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Domain Hunter](https://github.com/WhiteBite/Domain-Hunter) - Free, open-source, 100% client-side bulk domain availability checker: queries registry RDAP directly from the browser (no servers, no API keys, no tracking) across 148 TLD zones, with DNS-over-HTTPS corroboration for low-trust ccTLDs, IDN/punycode handling, live registrar prices and CSV/Markdown/TSV export. MIT. ([live demo](https://whitebite.github.io/Domain-Hunter/))
 
+[Vacato](https://vacato.io) - Free RDAP domain watchlist: scheduled checks on names you want, with Telegram/email/Slack alerts when status looks available. Not a registrar or drop-catcher — alerts only. Free tier: 10 domains.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
