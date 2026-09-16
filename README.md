@@ -67,6 +67,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [WhoisFreaks](https://whoisfreaks.com/) - WHOIS and domain intelligence API: live and historical WHOIS, DNS, SSL certificate, subdomain discovery, and typosquatting detection across 1,500+ TLDs. Free tier: 500 API credits on signup, no credit card required.
 
+[StackScan TLD Lists](https://www.stackscan.com/websites) - Registered domain and active website counts for 430 TLDs - generic, geoTLD and ccTLD - with the most popular sites, technologies and companies behind each. Free to browse, no signup.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
