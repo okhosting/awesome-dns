@@ -63,6 +63,10 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Vacato](https://vacato.io) - Free RDAP domain watchlist: scheduled checks on names you want, with Telegram/email/Slack alerts when status looks available. Not a registrar or drop-catcher — alerts only. Free tier: 10 domains.
 
+[APIFreaks](https://apifreaks.com/) - Live, bulk, historical, and reverse DNS lookup API supporting A, AAAA, MX, NS, SOA, SPF, TXT, and CNAME records, part of a wider 60+ API hub (geolocation, WHOIS, domain, finance, and more). Free tier: 10,000 credits on signup, no credit card required, shared across all APIs.
+
+[WhoisFreaks](https://whoisfreaks.com/) - WHOIS and domain intelligence API: live and historical WHOIS, DNS, SSL certificate, subdomain discovery, and typosquatting detection across 1,500+ TLDs. Free tier: 500 API credits on signup, no credit card required.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
