@@ -23,7 +23,7 @@ A curated list of open source tools, and free services, related to Domain Name S
 [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a free dynamic DNS service. nsupdate.info is also the name of the software used to implement it. If you like, you can use it to host the service on your own server.
 
 [NetworkWhois DNS Propagation](https://networkwhois.com/dns-propagation) - Check DNS propagation across multiple public resolvers and locations.
-
+[ARZHOST DNS Propagation Checker](https://arzhost.com/tools/dns-propagation-checker/) - Check and compare DNS records across multiple public resolvers and inspect resolver responses and status.
 [DNS Propagation Checker](https://github.com/rockswang/dns-propagation-checker) - Open-source DNS propagation checker with 10+ global DNS servers, supports A/AAAA/CNAME/MX/NS/TXT records. (GitHub)
 
 [digga](https://github.com/maaaathis/digga) - Free and open-source domain and infrastructure research toolkit for DNS, RDAP, WHOIS, subdomain discovery, email authentication, and TLS certificate inspection. No signup required. (GitHub)
