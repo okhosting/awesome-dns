@@ -69,6 +69,9 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [GateDNS](https://gatedns.app) - Encrypted DNS (DoH/DoT) and ad-blocking service with recursive Unbound resolution, featuring router-level filtering via Static IP/DDNS and a free local Android client.
 
+
+[dns-hygiene-checker](https://git.canutethegreat.com/CanuteTheGreat/dns-hygiene-checker) - Open-source, zero-dependency Python CLI that finds dangling DNS records before an attacker does: subdomain-takeover preconditions (CNAME pointing at deprovisioned S3/Heroku/GitHub Pages/Azure/Netlify/Fastly), stale A records, dangling SPF includes, and wildcard DNS without a matching cert. Uses Cloudflare DoH, no signup, no API key. Pay-what-you-want (including $0).
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
