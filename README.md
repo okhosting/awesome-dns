@@ -39,6 +39,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [DomScan](https://domscan.io/) - Domain intelligence with free DNS, WHOIS/RDAP, SSL and DNS propagation lookup tools, plus an API and MCP server for domain availability, valuation and brand protection.
 
+[Whisper](https://whisper.online) - Attribute any address or hostname from the IANA root: reverse DNS, public RDAP and DANE/TLSA pins in DNSSEC-signed DNS, plus a per-tenant DoH resolver with policy. Free API and an MCP server for AI assistants, no signup required.
+
 [DNS Beacon](https://dnsbeacon.com/) - Commercial dynamic DNS service that speaks the standard DynDNS2 protocol, so it works with any router, firewall or NAS. Free tier with no periodic re-confirmation, bring-your-own-domain, automatic Let's Encrypt SSL, and IPv4 + IPv6 (AAAA) updates. Hosted in Germany, GDPR-compliant.
 
 [proxy-dns-leak-check](https://github.com/SotaProxy/proxy-dns-leak-check) - Open-source CLI tool to detect DNS leaks when routing traffic through a proxy or VPN. Compares direct vs. proxied DNS resolution for a given host and flags mismatches. Companion to a [DNS troubleshooting guide](https://sotaproxy.com/en/blog/dns-resolution-problems?utm_source=github&utm_medium=readme&utm_campaign=awesome_dns_list).
