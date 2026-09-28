@@ -76,6 +76,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [BetterDNS.info](https://betterdns.info/) - Free all-in-one domain lookup: DNS, DNSSEC, MX, SPF, DKIM, DMARC, registrar and WHOIS data from a single request. All lookups run in parallel on a Rust backend, so results come back really fast. No signup required.
 
+[Domain Renewal Prices](https://namesale.store/renewal-prices) - Free table of first-year vs yearly renewal list prices for 530 TLDs, with a 1/3/5/10-year cost view and a CSV download. No signup required.
+
 
 ## Contributions welcome
 
