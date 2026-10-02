@@ -78,6 +78,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Domain Renewal Prices](https://namesale.store/renewal-prices) - Free table of first-year vs yearly renewal list prices for 530 TLDs, with a 1/3/5/10-year cost view and a CSV download. No signup required.
 
+[StackGrade](https://299nhs7sjg-netizen.github.io/stackgrade/) - Free, no-signup domain health grade (0-100): SPF with the 10-lookup limit counted recursively, DKIM selector discovery, DMARC policy, MX/email provider, security headers (via Mozilla HTTP Observatory) and domain expiry/transfer lock from registry RDAP, with a plain-English fix for each check. Runs in the browser over DNS-over-HTTPS.
+
 
 ## Contributions welcome
 
