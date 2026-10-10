@@ -80,6 +80,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [StackGrade](https://299nhs7sjg-netizen.github.io/stackgrade/) - Free, no-signup domain health grade (0-100): SPF with the 10-lookup limit counted recursively, DKIM selector discovery, DMARC policy, MX/email provider, security headers (via Mozilla HTTP Observatory) and domain expiry/transfer lock from registry RDAP, with a plain-English fix for each check. Runs in the browser over DNS-over-HTTPS.
 
+[Bulk Domain Audit](https://apify.com/sfa-data/domain-ssl-audit) - Checks up to 1,000 domains per run for SSL certificate and domain expiry (RDAP/WHOIS), SPF, DMARC, CAA and DNSSEC, plus whether Google or Bing may index the homepage, with an A-F grade and CSV/JSON export. Free, runs on Apify ([docs](https://github.com/sfa-data/domain-seo-audit-tools)).
+
 
 ## Contributions welcome
 
