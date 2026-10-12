@@ -49,6 +49,7 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Nutilz DNS Lookup](https://nutilz.com/dns-lookup) - Free browser-based DNS record lookup tool (A/AAAA/MX/CNAME/NS/TXT/SOA) using DNS-over-HTTPS. No signup required.
 
+[17NAS DNS Check](https://17nas.com/dns-check.php) - Free browser-based DNS record lookup tool (A, AAAA, MX, TXT, etc.) for any domain. No signup required.
 [Nutilz Domain Expiry Checker](https://nutilz.com/domain-expiry) - Free domain expiry checker. Instantly see when a domain expires, who registered it, registrar and nameservers using WHOIS/RDAP data. Bulk check multiple domains at once. No signup required.
 
 [Nutilz DMARC Record Generator](https://nutilz.com/dmarc-record-generator) - Free DMARC record builder and validator. Generate TXT records with policy (none/quarantine/reject), subdomain policy, rollout percentage, aggregate/forensic report addresses, and SPF/DKIM alignment mode. Also parses and validates existing records. No signup required.
