@@ -28,6 +28,7 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [digga](https://github.com/maaaathis/digga) - Free and open-source domain and infrastructure research toolkit for DNS, RDAP, WHOIS, subdomain discovery, email authentication, and TLS certificate inspection. No signup required. (GitHub)
 [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Catalog of still-free domain/subdomain programs plus a live RDAP hunter for unused cheap TLD names. Honest about forever-free vs year-1 cheap. No expired-.com scrapes.
+[Public Free Suffix](https://publicfreesuffix.org/) - Free subdomains on is-a.si, no.kg, so.kg, pfsdns.org, nastu.net and tun.re, with a web console, REST API and MCP support for AI agents.
 
 [IntoDNS.ai](https://intodns.ai/) - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, blacklists and provides actionable fixes. Free, no signup required.
 
