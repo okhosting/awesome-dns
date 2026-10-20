@@ -90,6 +90,9 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [VPS Provider Network Report](https://vpshostreview.com/vps-provider-network-report) - Free weekly report on which VPS hosting companies sign their domains with DNSSEC and publish IPv6 (AAAA) records, alongside HTTP/3 and TLS readings.
 
+[Hivex DNS Lookup](https://hivex.si/tools/dns-lookup) - Free lookup of A, AAAA, CNAME, MX, NS, TXT, CAA and SOA records at once, with TTLs, no account.
+
+[Hivex DNS Propagation Checker](https://hivex.si/tools/dns-propagation) - Check whether a DNS change has reached 13 public resolvers run by different companies, side by side.
 
 ## Contributions welcome
 
