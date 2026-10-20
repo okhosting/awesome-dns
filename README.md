@@ -86,6 +86,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Bulk Domain Audit](https://apify.com/sfa-data/domain-ssl-audit) - Checks up to 1,000 domains per run for SSL certificate and domain expiry (RDAP/WHOIS), SPF, DMARC, CAA and DNSSEC, plus whether Google or Bing may index the homepage, with an A-F grade and CSV/JSON export. Free, runs on Apify ([docs](https://github.com/sfa-data/domain-seo-audit-tools)).
 
+[Bulk Domain WHOIS & DNS Lookup](https://apify.com/pennydata/bulk-domain-whois-dns-lookup) - Bulk RDAP and DNS lookup of up to 1,000 domains per run: availability, registrar, created/expiry dates, nameservers, MX and TXT. Paid, runs on Apify: $0.002 per domain looked up (errors not charged).
+
 [SolidPing](https://github.com/fclairamb/solidping) - Open-source (AGPL-3.0) uptime monitor, self-hosted as a single Go binary or Docker image. Watches DNS records (A, AAAA, CNAME, MX, NS, SOA, TXT) against expected values or a stored baseline, DNSBL listings, domain expiry over RDAP with WHOIS fallback, and TLS certificate expiry, with alerts and status pages. Free hosted tier at [solidping.io](https://solidping.io).
 
 [VPS Provider Network Report](https://vpshostreview.com/vps-provider-network-report) - Free weekly report on which VPS hosting companies sign their domains with DNSSEC and publish IPv6 (AAAA) records, alongside HTTP/3 and TLS readings.
