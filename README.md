@@ -96,6 +96,10 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Hivex DNS Propagation Checker](https://hivex.si/tools/dns-propagation) - Check whether a DNS change has reached 13 public resolvers run by different companies, side by side.
 
+[DomainCanary free tools](https://domaincanary.com/tools) - Free SPF, DKIM and DMARC checkers, SPF and DMARC record generators, a DMARC aggregate report reader, and an SPF change check that compares a proposed record with the published one before you publish it. No signup. Also a free remote MCP server for AI assistants.
+
+[SPF pre-flight Action](https://github.com/domaincanary/spf-preflight-action) - Open-source (MIT) GitHub Action for DNS kept in git (octoDNS, DNSControl, Terraform). Fails a pull request whose SPF record goes over 10 lookups, ends in +all, has a malformed term or includes a name with no SPF record, and warns when it removes senders.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
