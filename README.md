@@ -100,6 +100,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [SPF pre-flight Action](https://github.com/domaincanary/spf-preflight-action) - Open-source (MIT) GitHub Action for DNS kept in git (octoDNS, DNSControl, Terraform). Fails a pull request whose SPF record goes over 10 lookups, ends in +all, has a malformed term or includes a name with no SPF record, and warns when it removes senders.
 
+[Pharos Email free tools](https://pharos.email/tools) - Free SPF checker that counts DNS lookups against the limit of 10 and shows which include uses them, a DMARC checker that resolves a policy inherited from the parent domain, a one-pass SPF, DKIM, DMARC, BIMI, MX and reverse DNS check, and an SMTP bounce code reference. No signup.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
