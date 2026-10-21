@@ -96,6 +96,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Hivex DNS Propagation Checker](https://hivex.si/tools/dns-propagation) - Check whether a DNS change has reached 13 public resolvers run by different companies, side by side.
 
+[Karma.Domains Domain Expiry Checker](https://karma.domains/en/domain-expiry-checker/) - Free bulk domain expiry checker: up to 10 domains per run, showing domain status, expiry, creation and last-updated dates and days left from public RDAP/WHOIS records, with a copy-to-spreadsheet export. No signup required.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
