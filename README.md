@@ -102,6 +102,10 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Pharos Email free tools](https://pharos.email/tools) - Free SPF checker that counts DNS lookups against the limit of 10 and shows which include uses them, a DMARC checker that resolves a policy inherited from the parent domain, a one-pass SPF, DKIM, DMARC, BIMI, MX and reverse DNS check, and an SMTP bounce code reference. No signup.
 
+[SPF Lookup Limit Checker](https://daniele-michelin.com/en/tools/spf-lookup-checker/) - Free SPF checker that counts the DNS lookups against the limit of 10, shows which include uses them and offers an embeddable live badge. No account, nothing stored.
+
+[Mail DNS Checker](https://daniele-michelin.com/en/tools/mail-dns-checker/) - Free check of MX, SPF, DKIM, DMARC and PTR records for a domain, with the findings explained and fixes suggested.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
