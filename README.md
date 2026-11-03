@@ -108,6 +108,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [APIVerve](https://apiverve.com/) - DNS and domain REST APIs: DNS lookup, DNS propagation, DNSSEC check, reverse DNS, nameservers, WHOIS, MX, SPF, DKIM, DMARC, BIMI, CAA and DANE validation, and SSL/TLS certificate checks, returned as JSON. Also available to AI assistants through an MCP server (`@apiverve/mcp-server`). Free plan: 200 credits a month, no credit card required.
 
+[Warnwell](https://warnwell.com/) - Free check of many domains at once: SPF, DKIM, DMARC, DNSSEC, expiry dates, SSL certificates and parked domains, with the DNS record that fixes each problem. No signup. Also a free remote MCP server for AI assistants.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
