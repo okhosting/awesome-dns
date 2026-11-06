@@ -27,6 +27,7 @@ A curated list of open source tools, and free services, related to Domain Name S
 [DNS Propagation Checker](https://github.com/rockswang/dns-propagation-checker) - Open-source DNS propagation checker with 10+ global DNS servers, supports A/AAAA/CNAME/MX/NS/TXT records. (GitHub)
 
 [digga](https://github.com/maaaathis/digga) - Free and open-source domain and infrastructure research toolkit for DNS, RDAP, WHOIS, subdomain discovery, email authentication, and TLS certificate inspection. No signup required. (GitHub)
+[Profundis](https://profundis.io/) - Search indexed DNS records and discover subdomains. Limited anonymous preview and free personal account; API and MCP access require a paid plan or credit pack.
 [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Catalog of still-free domain/subdomain programs plus a live RDAP hunter for unused cheap TLD names. Honest about forever-free vs year-1 cheap. No expired-.com scrapes.
 [Public Free Suffix](https://publicfreesuffix.org/) - Free subdomains on is-a.si, no.kg, so.kg, pfsdns.org, nastu.net and tun.re, with a web console, REST API and MCP support for AI agents.
 
