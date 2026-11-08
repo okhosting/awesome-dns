@@ -111,6 +111,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Warnwell](https://warnwell.com/) - Free check of many domains at once: SPF, DKIM, DMARC, DNSSEC, expiry dates, SSL certificates and parked domains, with the DNS record that fixes each problem. No signup. Also a free remote MCP server for AI assistants.
 
+[DigDeep](https://digdeep.fyi/) - Free, open-source (Apache-2.0), 100% client-side DNSSEC chain-of-trust visualizer and DNS-over-HTTPS (DoH) wire packet inspector. Cryptographically verifies DS digests, DNSKEY rollovers, RRSIG signatures (RSA, ECDSA, Ed25519), NSEC/NSEC3 proofs, and RFC 8914 Extended DNS Errors directly in the browser via WebCrypto across multiple public DoH resolvers (1.1.1.1, 8.8.8.8, 9.9.9.9, DNS4EU), with offline snapshot diffing and SVG/PNG graph export. No signup, no backend. ([source](https://github.com/tbutter/digdeep))
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
