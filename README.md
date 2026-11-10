@@ -85,6 +85,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [StackGrade](https://299nhs7sjg-netizen.github.io/stackgrade/) - Free, no-signup domain health grade (0-100): SPF with the 10-lookup limit counted recursively, DKIM selector discovery, DMARC policy, MX/email provider, security headers (via Mozilla HTTP Observatory) and domain expiry/transfer lock from registry RDAP, with a plain-English fix for each check. Runs in the browser over DNS-over-HTTPS.
 
+[SpoofCheck](https://spoofchecker.online/) - Free, no-signup email spoofing test: checks SPF, DKIM (25 common selectors), DMARC, MTA-STS and MX, then grades the domain from A to F with fix recommendations. Open source (MIT).
+
 [Bulk Domain Audit](https://apify.com/sfa-data/domain-ssl-audit) - Checks up to 1,000 domains per run for SSL certificate and domain expiry (RDAP/WHOIS), SPF, DMARC, CAA and DNSSEC, plus whether Google or Bing may index the homepage, with an A-F grade and CSV/JSON export. Free, runs on Apify ([docs](https://github.com/sfa-data/domain-seo-audit-tools)).
 
 [Bulk Domain WHOIS & DNS Lookup](https://apify.com/pennydata/bulk-domain-whois-dns-lookup) - Bulk RDAP and DNS lookup of up to 1,000 domains per run: availability, registrar, created/expiry dates, nameservers, MX and TXT. Paid, runs on Apify: $0.002 per domain looked up (errors not charged).
