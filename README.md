@@ -117,6 +117,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [DigDeep](https://digdeep.fyi/) - Free, open-source (Apache-2.0), 100% client-side DNSSEC chain-of-trust visualizer and DNS-over-HTTPS (DoH) wire packet inspector. Cryptographically verifies DS digests, DNSKEY rollovers, RRSIG signatures (RSA, ECDSA, Ed25519), NSEC/NSEC3 proofs, and RFC 8914 Extended DNS Errors directly in the browser via WebCrypto across multiple public DoH resolvers (1.1.1.1, 8.8.8.8, 9.9.9.9, DNS4EU), with offline snapshot diffing and SVG/PNG graph export. No signup, no backend. ([source](https://github.com/tbutter/digdeep))
 
+[SPF, DKIM and DMARC email lab on ArtiGram](https://artigram.cafeboon.com/p/wpjtfzc) - Free interactive lesson for learning email authentication. Build an email, flip the envelope sender and the DKIM signing domain, and see why SPF and DKIM can pass while DMARC still fails. Its code makes no network requests.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
