@@ -49,6 +49,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Valla DNS](https://valladns.com) - Free, no-signup DNS, WHOIS, propagation (global resolvers with a map), SSL/TLS and email-health (SPF/DKIM/DMARC/MX/blacklist) checker suite.
 
+[RankDime DNS Lookup](https://rankdime.com/tools/dns) - Free online DNS record lookup, plus WHOIS/RDAP, SSL and hosting checks. No signup required.
+
 [admintoolkit.io](https://admintoolkit.io/) - Free, no-signup browser toolkit for DNS, DNSSEC, MX, SPF, DKIM, DMARC, BIMI, MTA-STS, TLS-RPT, DANE/TLSA, CAA and TLS certificate diagnostics.
 
 [Nutilz DNS Lookup](https://nutilz.com/dns-lookup) - Free browser-based DNS record lookup tool (A/AAAA/MX/CNAME/NS/TXT/SOA) using DNS-over-HTTPS. No signup required.
