@@ -124,6 +124,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [inboxready](https://github.com/hamarshehmhmd/inboxready) - Open-source (AGPL-3.0) CLI that checks a sending domain's SPF (10-lookup limit with an include tree), DKIM keys, DMARC and forward-confirmed reverse DNS against the Gmail, Yahoo and Outlook.com sender rules, can preview a DNS record before you publish it, and also checks a real .eml for DKIM alignment and RFC 8058 one-click unsubscribe.
 
+[Whatoblock](https://whatoblock.com/) - Hourly IP blocklists built from a honeypot network's observations (scanning, botnet, proxy and Tor exit activity), with an export as a DNS RPZ zone. Account required; a free sample feed is available.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
