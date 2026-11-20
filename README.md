@@ -126,6 +126,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Whatoblock](https://whatoblock.com/) - Hourly IP blocklists built from a honeypot network's observations (scanning, botnet, proxy and Tor exit activity), with an export as a DNS RPZ zone. Account required; a free sample feed is available.
 
+[PlicSigur](https://plicsigur.ro/en/) - Free, no-signup email security checker (UI and guides in Romanian): SPF with the recursive 10-lookup count, DKIM selector discovery, DMARC per RFC 9989, MX, MTA-STS, TLS-RPT, BIMI and DNSSEC, run in the browser over DNS-over-HTTPS with nothing stored. Also DMARC/SPF generators and a monthly open-data barometer of email authentication on the top 1,000 .ro domains.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
