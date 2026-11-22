@@ -14,6 +14,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [DuckDNS](https://www.duckdns.org/) - Duck DNS is a free service which will point a DNS (sub domains of duckdns.org) to an IP of your choice
 
+[Linkora](https://linkora.top) - Free developer subdomains for side projects. One free hostname, no card required; point it at Vercel, GitHub Pages, a VPS, or a localhost service via a managed Cloudflare Tunnel.
+
 [Zilore](https://zilore.com/) - A fast, reliable, and globally accessible DNS hosting service maintained by a team of experts, with amazing capabilities
 
 [ClouDNS](https://www.cloudns.net/) - ClouDNS makes your DNS faster and secure with Global Anycast DNS Network
