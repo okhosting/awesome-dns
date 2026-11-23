@@ -130,6 +130,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [PlicSigur](https://plicsigur.ro/en/) - Free, no-signup email security checker (UI and guides in Romanian): SPF with the recursive 10-lookup count, DKIM selector discovery, DMARC per RFC 9989, MX, MTA-STS, TLS-RPT, BIMI and DNSSEC, run in the browser over DNS-over-HTTPS with nothing stored. Also DMARC/SPF generators and a monthly open-data barometer of email authentication on the top 1,000 .ro domains.
 
+- [InboxShield](https://inbox-checker.appwrite.network/) - Free zero-login DNS email security checker for SPF (with recursive 10-lookup [SPF Flattener](https://inbox-checker.appwrite.network/spf-flattener)), 24-selector DKIM, DMARC, MTA-STS, TLS-RPT, DANE, BIMI, and 5 DNSBLs, plus an open 228-domain [2026 SaaS Email Deliverability Study](https://zcoldwater.github.io/launch-audit-reports/email-deliverability-2026/).
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
