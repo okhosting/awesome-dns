@@ -100,6 +100,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [SolidPing](https://github.com/fclairamb/solidping) - Open-source (AGPL-3.0) uptime monitor, self-hosted as a single Go binary or Docker image. Watches DNS records (A, AAAA, CNAME, MX, NS, SOA, TXT) against expected values or a stored baseline, DNSBL listings, domain expiry over RDAP with WHOIS fallback, and TLS certificate expiry, with alerts and status pages. Free hosted tier at [solidping.io](https://solidping.io).
 
+[SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Self-hosted (MIT) domain and website monitoring. Tracks IP address changes, checks IPs against DNS blocklists, and monitors domain registration and TLS certificate expiry. Setup uses Docker Compose from the source repository.
+
 [VPS Provider Network Report](https://vpshostreview.com/vps-provider-network-report) - Free weekly report on which VPS hosting companies sign their domains with DNSSEC and publish IPv6 (AAAA) records, alongside HTTP/3 and TLS readings.
 
 [Hivex DNS Lookup](https://hivex.si/tools/dns-lookup) - Free lookup of A, AAAA, CNAME, MX, NS, TXT, CAA and SOA records at once, with TTLs, no account.
