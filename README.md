@@ -44,6 +44,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [DNSai](https://dnsai.app/) - AI-era DNS & email-security toolkit: DNS/WHOIS lookup, SPF analyzer, DKIM selector discovery, DMARC and blacklist checks, plus a free API and remote MCP server for AI assistants. Free, no signup required.
 
+[MyIPScan DKIM Checker](https://myipscan.net/tools/email-security/dkim-checker/) - Free DKIM lookup that checks 40 common selectors from the browser and reports key type, key length and revoked or test keys. No signup required.
+
 [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking CLI with DoH, DoT, DNSSEC validation and full timing breakdown.
 
 [DomScan](https://domscan.io/) - Domain intelligence with free DNS, WHOIS/RDAP, SSL and DNS propagation lookup tools, plus an API and MCP server for domain availability, valuation and brand protection.
