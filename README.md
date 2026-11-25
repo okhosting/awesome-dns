@@ -38,6 +38,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Relaymetry](https://relaymetry.com/) - Free SPF, DKIM, DMARC and MTA-STS checker. Expands SPF includes to show the real DNS-lookup count and reports the specific fixes. No signup required.
 
+[Postmaster of Puppets](https://postmasterofpuppets.com/) - Free check of a domain's MX, SPF, DKIM and DMARC records that says whether anyone can send email as the domain, with the records that fix it. Open source (MIT), no signup required.
+
 [DMARCPro](https://tools.postsyncapp.com) - Free, client-side RFC 9989 DMARC generator and RFC 7208 SPF merger with recursive 10-lookup tracker and live Cloudflare & Google DoH inspection. No signup required.
 
 [DNSai](https://dnsai.app/) - AI-era DNS & email-security toolkit: DNS/WHOIS lookup, SPF analyzer, DKIM selector discovery, DMARC and blacklist checks, plus a free API and remote MCP server for AI assistants. Free, no signup required.
