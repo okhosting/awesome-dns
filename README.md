@@ -141,6 +141,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Best Latest Apps Domain IP Lookup](https://bestlatestapps.com/tools/domain-ip-lookup/) - Free lookup of the A, AAAA, NS and MX records for a domain, run from the browser through Cloudflare's public DNS-over-HTTPS resolver (1.1.1.1). No signup.
 
+[TheOmniKit Domain Health Check](https://theomnikit.com/dev/domain-health-check) - Checks a domain's MX, SPF, DMARC, DKIM, BIMI, MTA-STS, DNSSEC and blocklists in one go. Free, no account, runs in the browser over DNS-over-HTTPS (Cloudflare or Google).
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
