@@ -141,6 +141,8 @@ A curated list of open source tools, and free services, related to Domain Name S
 
 [Best Latest Apps Domain IP Lookup](https://bestlatestapps.com/tools/domain-ip-lookup/) - Free lookup of the A, AAAA, NS and MX records for a domain, run from the browser through Cloudflare's public DNS-over-HTTPS resolver (1.1.1.1). No signup.
 
+[NetAPI Compromised Domains](https://netapi.com/compromised-urls/) - Free hourly list of malware and phishing domains for Pi-hole and other DNS blockers, in plain text and hosts formats, no account needed. Most of it is NetAPI's own detection: malware and botnet domains, including those now held by sinkholes, and domains tied to confirmed phishing. CERT Polska's phishing and scam domains are added to it. CC BY 4.0.
+
 ## Contributions welcome
 
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
