@@ -137,9 +137,12 @@ A curated list of open source tools, and free services, related to Domain Name S
 [PlicSigur](https://plicsigur.ro/en/) - Free, no-signup email security checker (UI and guides in Romanian): SPF with the recursive 10-lookup count, DKIM selector discovery, DMARC per RFC 9989, MX, MTA-STS, TLS-RPT, BIMI and DNSSEC, run in the browser over DNS-over-HTTPS with nothing stored. Also DMARC/SPF generators and a monthly open-data barometer of email authentication on the top 1,000 .ro domains.
 
 [InboxShield](https://inbox.shipbastion.com/) - Free zero-login DNS email security checker for SPF (with recursive 10-lookup [SPF Flattener](https://inbox.shipbastion.com/spf-flattener)), 24-selector DKIM, DMARC, MTA-STS, TLS-RPT, DANE, BIMI, and 5 DNSBLs, plus an open 228-domain [2026 SaaS Email Deliverability Study](https://zcoldwater.github.io/launch-audit-reports/email-deliverability-2026/).
+
 [TryTheHandle](https://trythehandle.eu/) - Free external security scanner for servers and domains: DNS, SPF, DKIM and DMARC, TLS, HTTP security headers, exposed files and software versions, with a report scored out of 100 and a fix for each issue. Quick check needs no signup; the full scan requires proof of ownership. Results not stored.
 
 [Best Latest Apps Domain IP Lookup](https://bestlatestapps.com/tools/domain-ip-lookup/) - Free lookup of the A, AAAA, NS and MX records for a domain, run from the browser through Cloudflare's public DNS-over-HTTPS resolver (1.1.1.1). No signup.
+
+[NetAPI Compromised Domains](https://netapi.com/compromised-urls/) - Free hourly list of malware and phishing domains for Pi-hole and other DNS blockers, in plain text and hosts formats, no account needed. Most of it is NetAPI's own detection: malware and botnet domains, including those now held by sinkholes, and domains tied to confirmed phishing. CERT Polska's phishing and scam domains are added to it. CC BY 4.0.
 
 [TheOmniKit Domain Health Check](https://theomnikit.com/dev/domain-health-check) - Checks a domain's MX, SPF, DMARC, DKIM, BIMI, MTA-STS, DNSSEC and blocklists in one go. Free, no account, runs in the browser over DNS-over-HTTPS (Cloudflare or Google).
 
